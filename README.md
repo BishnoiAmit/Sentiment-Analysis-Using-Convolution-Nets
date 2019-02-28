@@ -4,12 +4,12 @@ This repo contains the code to implement sentiment analysis using Convolution Ne
 CUDA enabled Nvidia GPU has been used for the execution of model.
 
 # Dependencies
-keras-gpu(or just keras in case of CPU)
-tensorflow-gpu(or just tensorflow in case of CPU)
-scikit-learn
-matplotlib
-CUDA (not needed when using CPU)
-cuDNN (not needed when using CPU)
+- keras-gpu(or just keras in case of CPU)
+- tensorflow-gpu(or just tensorflow in case of CPU)
+- scikit-learn
+- matplotlib
+- CUDA (not needed when using CPU)
+- cuDNN (not needed when using CPU)
 
 # Dataset Used
 Dataset can be downloaded from the following link: http://ai.stanford.edu/~amaas/data/sentiment/
