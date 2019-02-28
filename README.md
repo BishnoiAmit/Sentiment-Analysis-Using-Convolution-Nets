@@ -11,13 +11,13 @@ matplotlib
 CUDA (not needed when using CPU)
 cuDNN (not needed when using CPU)
 
-# Datset Used
+# Dataset Used
 Dataset can be downloaded from the following link: http://ai.stanford.edu/~amaas/data/sentiment/
 
 # Convolution Neural Network
 Convolution nets can be executed using the CNN_IMDB python notebook. 
 
-You can also oberve the results obtained with the earlier GPU execution.
+You can also oberve the results obtained with the earlier GPU execution in the python notebook.
 
 # Support Vector Machine
 Support vector machine can be executed using SVM_IMDB.py file.
